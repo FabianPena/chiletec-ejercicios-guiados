@@ -1,0 +1,17 @@
+<head>
+    <title>Manipulación del DOM</title>
+</head>
+
+<body>
+    <h1 id="miTitulo">¡Hola, Mundo!</h1>
+    <button onclick="cambiarTexto()">Cambiar
+        Título</button>
+    <script>
+        function cambiarTexto() {
+            document.getElementById("miTitulo").innerText
+                = "¡Título Cambiado!";
+        }
+    </script>
+</body>
+
+</html>
