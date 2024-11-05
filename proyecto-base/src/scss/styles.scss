@@ -1,0 +1,6 @@
+@use "utils/variables";
+@use "bootstrap/scss/bootstrap";
+
+body {
+    background-color: variables.$primary; // Ejemplo de uso de una variable
+  }
