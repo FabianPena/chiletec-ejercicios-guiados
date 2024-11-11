@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Levantarse",
+    "completada": true
+  },
+  {
+    "nombre": "Ducharse",
+    "completada": true
+  },
+  {
+    "nombre": "Vestirse",
+    "completada": false
+  }
+]
